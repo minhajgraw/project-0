@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+body{
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Rufina', serif;
+}
+h1{
+    text-align: center;
+    position:center;
+    color: $color-red;
+}
+a{
+    margin: 20px;
+    padding: 40px;
+    color:blueviolet;
+    border: coral;
+    border-collapse: collapse;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+tr:nth-child(even){background-color: #f2f2f2}
+  
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+.container{
+    widows: 100%;
+    padding:10px;
+}
